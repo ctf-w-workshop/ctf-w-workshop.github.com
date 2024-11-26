@@ -30,7 +30,7 @@ Topics of interest include (but are not limited to):
 
 ## Submission Guidelines
 
-Abstracts must be in English, formatted in pdf according to the ITASEC conference template (Easychair style: [https://easychair.org/publications/for_authors](https://easychair.org/publications/for_authors)) and comprised between 500 and 700 words, unlimited pages are allowed for references. **Please note that the workshop will not involve the publication of scholarly articles for selected contributions, as it adopts a more practical, hands-on approach.**
+Abstracts must be in English, formatted in pdf according to the ITASEC conference template (Easychair style: [https://easychair.org/publications/for_authors](https://easychair.org/publications/for_authors)) and comprised between 1 and 2 pages, unlimited pages are allowed for references. **Please note that the workshop will not involve the publication of scholarly articles for selected contributions, as it adopts a more practical, hands-on approach.**
 
 <br>
 
@@ -45,7 +45,6 @@ Submission Link: [https://easychair.org/conferences/?conf=taic25](https://easych
 Davide Maiorca (University of Cagliari, Italy)<br>
 Emilio Coppa (LUISS Guido Carli, Italy)<br> 
 Marina Ribaudo (University of Cagliari, Italy)<br>
-Silvia Lucia Sanna (University of Cagliari, Italy)<br>
 <br> 
 
 <br>
