@@ -14,8 +14,8 @@ Welcome to the Capture the Flag for Work (CTF-W) workshop webpage, which hosts a
 
 ## Important Dates
 
-* December *, 2024: Deadline for Workshop Paper Submission
-* January *, 2025: Author Notification
+* December 27, 2024: Deadline for Workshop Paper Submission
+* January 12, 2025: Author Notification
 * February 3-8, 2025: Conference (CTF-W workshop day yet to be decided)  
 * February 20, 2025: Camera-ready deadline
 

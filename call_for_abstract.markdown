@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Call For Papers
-permalink: /CFP/
+title: Call For Abstract
+permalink: /CFA/
 nav: true
 ---
 <img src="{{ '/images/mm_cfp.png' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
@@ -10,8 +10,8 @@ nav: true
 
 ## Important Dates
 
-* December *, 2024: Deadline for Workshop Paper Submission
-* January *, 2025: Author Notification
+* December 27, 2024: Deadline for Workshop Paper Submission
+* January 12, 2025: Author Notification
 * February 3-8, 2025: Conference (CTF-W workshop day yet to be decided)
 * February 20, 2025: Camera-ready deadline
 
@@ -30,7 +30,7 @@ Topics of interest include (but are not limited to):
 
 ## Submission Guidelines
 
-Papers must be in English, formatted in pdf according to the ITASEC conference template (Easychair style: [https://easychair.org/publications/for_authors](https://easychair.org/publications/for_authors)) and comprised between 5 and 7 pages, excluding bibliography. This workshop has no official proceedings, so we will also accept submissions that have been published elsewhere, provided that this is clearly acknowledged in the submission (e.g., with a footnote on the first page reporting the full reference), and that the submission is adapted according to the given template and page limits.
+Abstracts must be in English, formatted in pdf according to the ITASEC conference template (Easychair style: [https://easychair.org/publications/for_authors](https://easychair.org/publications/for_authors)) and comprised between 500 and 700 words, unlimited pages are allowed for references. **Please note that the workshop will not involve the publication of scholarly articles for selected contributions, as it adopts a more practical, hands-on approach.**
 
 <br>
 
