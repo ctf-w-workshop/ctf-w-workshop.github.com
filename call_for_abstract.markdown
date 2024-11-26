@@ -4,7 +4,7 @@ title: Call For Abstract
 permalink: /CFA/
 nav: true
 ---
-<img src="{{ '/images/mm_cfp.png' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
+<img src="{{ '/images/banner_cfa.jpg' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
 
 <br>
 
@@ -36,7 +36,7 @@ Abstracts must be in English, formatted in pdf according to the ITASEC conferenc
 
 ## Submission Website
 
-Submission Link: [https://easychair.org/conferences/?conf=taic25](https://easychair.org/conferences/?conf=taic25)
+Submission Link: [https://easychair.org/conferences/?conf=](https://easychair.org/conferences/?conf=)
 
 <br>
 

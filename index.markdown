@@ -4,7 +4,7 @@
 title: Homepage
 layout: page
 ---
-<img src="{{ '/images/mm_homepage.png' | relative_url }}" alt="Full-width image" style="width: 100%; height: auto; display: block;">
+<img src="{{ '/images/banner.jpg' | relative_url }}" alt="Full-width image" style="width: 100%; height: auto; display: block;">
 
 ## CTF-W Workshop, Co-located with <a href="https://itasec.it/" class="itasec-link">ITASEC25</a>
 
@@ -42,7 +42,7 @@ We encourage submissions where senior players (e.g., the ones who played in ECSC
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
-    <img src="{{ '/images/davide.jpeg' | relative_url }}" alt="Davide Maiorca" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+    <img src="{{ '/images/davide.jpg' | relative_url }}" alt="Davide Maiorca" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
       <a href="https://www.saiferlab.ai/people/davidemaiorca" target="_blank">Davide Maiorca</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
@@ -63,7 +63,7 @@ We encourage submissions where senior players (e.g., the ones who played in ECSC
     </p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
-    <img src="{{ '/images/silvia.jpeg' | relative_url }}" alt="Silvia Lucia Sanna" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
+    <img src="{{ '/images/silvia.jpg' | relative_url }}" alt="Silvia Lucia Sanna" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
       <a href="https://www.saiferlab.ai/people/silviasanna" target="_blank">Silvia Lucia Sanna</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
