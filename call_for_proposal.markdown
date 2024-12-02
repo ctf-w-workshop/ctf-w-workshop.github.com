@@ -47,8 +47,6 @@ Silvia Lucia Sanna (University of Cagliari, Italy)
 
 <br>
 
-<br>
-
 ## Technical Program Committee
 
 To be announced soon.
