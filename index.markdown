@@ -73,6 +73,6 @@ We encourage submissions where senior players (e.g., the ones who played in ECSC
 
 ### Contact:
 
-For any question, or info, please contact Davide Maiorca at: [davide.maiorca@unica.it](mailto:davide.maiorca@unica.it)
+For any question, or info, please contact Davide Maiorca at: [davide.maiorca@unica.it](mailto:davide.maiorca@unica.it) or Silvia Lucia Sanna at: [silvial.sanna@unica.it](mailto:silvial.sanna@unica.it)
 
 <br>

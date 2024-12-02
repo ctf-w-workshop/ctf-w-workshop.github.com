@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Call For Abstract
-permalink: /CFA/
+title: Call For Proposal
+permalink: /CFP/
 nav: true
 ---
 <img src="{{ '/images/banner_cfa.jpg' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
@@ -30,13 +30,7 @@ Topics of interest include (but are not limited to):
 
 ## Submission Guidelines
 
-Abstracts must be in English, formatted in pdf according to the ITASEC conference template (Easychair style: [https://easychair.org/publications/for_authors](https://easychair.org/publications/for_authors)) and comprised between 1 and 2 pages, unlimited pages are allowed for references. **Please note that the workshop will not involve the publication of scholarly articles for selected contributions, as it adopts a more practical, hands-on approach.**
-
-<br>
-
-## Submission Website
-
-Submission Link: [https://easychair.org/conferences/?conf=](https://easychair.org/conferences/?conf=)
+All proposals must be submitted by 27/12/2024 in English with a maximum of one page at the following EasyChair link [https://easychair.org/conferences/?conf=ctf4w](https://easychair.org/conferences/?conf=ctf4w) (proposals of only one author can be submitted)
 
 <br>
 
@@ -47,12 +41,14 @@ Emilio Coppa (LUISS Guido Carli, Italy)<br>
 Marina Ribaudo (University of Cagliari, Italy)<br>
 <br> 
 
+## Program Chair
+
+Silvia Lucia Sanna (University of Cagliari, Italy)
+
 <br>
 
-For any question, or info, please contact Davide Maiorca at: [davide.maiorca@unica.it](mailto:davide.maiorca@unica.it)
-
 <br>
 
-## Program Committee
+## Technical Program Committee
 
 To be announced soon.
